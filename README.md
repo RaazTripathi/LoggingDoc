@@ -1,13 +1,6 @@
 LoggingDoc
 ==========
-A simple Log4j file .
-
-
-
-
-
-
-
+A simple Log4j property file  .
 
 
 
